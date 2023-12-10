@@ -1,0 +1,13 @@
+
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+Z
+java:S1854$"?Remove this useless assignment to local variable "responseMap".(ã‹îüÿÿÿÿ
+m
+java:S3776V"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ˆø® ùÿÿÿÿ
+[
+java:S1854 "?Remove this useless assignment to local variable "responseMap".(ã‹îüÿÿÿÿ

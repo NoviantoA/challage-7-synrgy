@@ -1,0 +1,7 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ô¥õ—ÿÿÿÿÿ8ä‘ÞºÄ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ8ê‘ÞºÄ1
+x
+java:S3305"VInject this field value directly into "producerFactory", the only method that uses it.(ãéŸ„ûÿÿÿÿ8ë‘ÞºÄ1

@@ -1,0 +1,60 @@
+
+E
+java:S3740*"/Provide the parametrized type for this generic.(‚¾ªˆ
+E
+java:S3740,"/Provide the parametrized type for this generic.(µÙÄ¹
+J
+java:S3740."/Provide the parametrized type for this generic.(ï•¼ºşÿÿÿÿ
+E
+java:S37404"/Provide the parametrized type for this generic.(‘ïı
+J
+java:S37407"/Provide the parametrized type for this generic.(¿Ü§¾øÿÿÿÿ
+E
+java:S37409"/Provide the parametrized type for this generic.(¦æ·Ê
+J
+java:S3740;"/Provide the parametrized type for this generic.(ï•¼ºşÿÿÿÿ
+E
+java:S3740A"/Provide the parametrized type for this generic.(´ê€ï
+E
+java:S3740C"/Provide the parametrized type for this generic.(’¿˜¤
+J
+java:S3740E"/Provide the parametrized type for this generic.(ï•¼ºşÿÿÿÿ
+J
+java:S3740J"/Provide the parametrized type for this generic.(ªÂè™ıÿÿÿÿ
+E
+java:S3740L"/Provide the parametrized type for this generic.(®ÖÅ
+J
+java:S3740N"/Provide the parametrized type for this generic.(ï•¼ºşÿÿÿÿ
+J
+java:S3740\"/Provide the parametrized type for this generic.(¹Êì‘úÿÿÿÿ
+J
+java:S3740p"/Provide the parametrized type for this generic.(å¿¶½úÿÿÿÿ
+o
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÙÄ¹
+t
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(ï•¼ºşÿÿÿÿ
+t
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(¿Ü§¾øÿÿÿÿ
+o
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦æ·Ê
+t
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï•¼ºşÿÿÿÿ
+o
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(’¿˜¤
+t
+java:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï•¼ºşÿÿÿÿ
+o
+java:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ÖÅ
+t
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï•¼ºşÿÿÿÿ
+t
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(å¿¶½úÿÿÿÿ
+k	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¬ĞÈûÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813!"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813#"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ
